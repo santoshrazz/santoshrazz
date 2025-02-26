@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [DigitalSubham.in](DigitalSubham.in)
+- 👨‍💻 All of my projects are available at [santoshrazz.in](santoshrazz.in)
 
 - 💬 Ask me about **Frontend,Backend,Cloud,Databases**
 
